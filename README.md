@@ -25,7 +25,7 @@ ffuf -w [WORDLIST] -u https://website.com/FUZZ.html
 
 This command would access the site website.com and test every word on the wordlist.
 
-Note: Fuzzing generates a high volume of traffic on webservers, which might cause instabilities in legacy servers. Also, this technique might trigger Web Application Firewalls (WAF), meaning that you might be detected and blocked by the WAF solution. Only perform this technique in servers that you are authorized to attack.![image]
+Note: Fuzzing generates a high volume of traffic on webservers, which might cause instabilities in legacy servers. Also, this technique might trigger Web Application Firewalls (WAF), meaning that you might be detected and blocked by the WAF solution. Only perform this technique in servers that you are authorized to attack.
 
 ## FFuF Overview
 FFuF is a fuzzing tool that allows you to discover pages, folders and parameters in web applications. This tool leverages multi-threading and parallel requests to fuzz web applications with maximum performance.
