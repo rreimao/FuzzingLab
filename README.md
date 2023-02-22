@@ -3,7 +3,7 @@
 ## Scenario
 You are in a red team engagement against Globomantics, a financial conglomerate in the Gulf of Mexico. After doing some initial OSINT gathering, you discovered that their main domain is globomantics.com. 
 
-Upon accessing this website, you note that it contains several pages and subfolders. You also suspect that there might be few hidden folders and files, not indexed by the initial web page.
+Upon accessing the target website, you note that it contains several pages and subfolders. You also suspect that there might be few hidden folders and files, not indexed by the initial web page.
 
 Your job is to enumerate all pages and folders from globomantics, including hidden ones. This information will help you to identify attack paths and potential exploitation entry points into the web application. 
 
