@@ -42,7 +42,7 @@ https://github.com/ffuf/ffuf
 
 ### Installation Steps:
 1) Create an Ubuntu 22.04 Desktop virtual machine
-3) Copy the `pre-reqs.sh` file to the Desktop
+3) Download the `pre-reqs.sh` file into the Desktop
 2) Run the pre-reqs installer: `sudo /home/user/Desktop/pre-reqs.sh`
 3) Test ffuf: `ffuf -h`
 
